@@ -1,0 +1,56 @@
+John Adams
+Perez
+12/03/1999
+Aetna
+Male
+450
+
+Mary Jones
+Smith
+11/03/2000
+Medicare
+Female
+300
+
+Linda Willaims
+Rodriguez
+01/07/2006
+BCBS
+Female
+300
+
+Kevin Smith
+Perez
+11/22/2000
+Aetna
+Male
+100
+
+Elizabeth Brown
+Lee
+01/16/2002
+BCBS
+Female
+32
+
+George Miller
+Smith
+04/13/1999
+UHC
+Male
+370.5
+
+Sam Jackson
+Lee
+03/15/1996
+UHC
+Male
+375.43
+
+Sarah Davis
+Rodriguez
+03/10/2000
+BCBS
+Female
+200
+
