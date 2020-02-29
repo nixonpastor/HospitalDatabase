@@ -8,4 +8,6 @@ This database allows the user to :
 4) Add Doctor
 5) Display Doctor Information
 
-The patients and doctors are written to files. 
+The patients and doctors are written to files.   
+<img src="Images/HospitalDatabase1.png" width = 500>. 
+<img src="Images/HospitalDatabase2.png" width = 500>
